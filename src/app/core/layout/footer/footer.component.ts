@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   imports: [],
   template: `
     <p>
-      footer works!
+      <!-- footer works! -->
     </p>
   `,
   styleUrl: './footer.component.scss'
